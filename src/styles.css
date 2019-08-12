@@ -1,0 +1,18 @@
+.puntero {
+    cursor: pointer;
+}
+
+footer {
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    width: 100%
+}
+
+.margin_top {
+    margin-top: 20px;
+}
+
+.texto_blanco {
+    color: white;
+}
